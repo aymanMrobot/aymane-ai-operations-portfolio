@@ -403,9 +403,6 @@ export default function Home() {
           <div className="container py-12 md:py-16">
             <div className="grid gap-10 lg:grid-cols-[1.25fr_0.75fr] lg:items-center">
               <div className="max-w-4xl">
-                <Badge variant="outline" className="mb-4 border-primary/30 bg-primary/10 text-xs text-primary">
-                  Open to London or Manchester hybrid roles
-                </Badge>
                 <h1 className="max-w-4xl text-4xl font-bold leading-tight tracking-tight md:text-6xl">
                   AI operations builder who turns messy workflows into measurable margin.
                 </h1>
